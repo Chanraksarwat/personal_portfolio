@@ -1,0 +1,151 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  font-family: 'Roboto', 'sans-serif';
+  letter-spacing: 0.0625px;
+  background-color: #FFFFFF;
+  color: #333;
+}
+
+.navbar-brand {
+  width: 30px;
+}
+
+.navbar {
+  background-color:#FFFFFF;
+  height: 80px;
+  z-index: 10;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.10), 0 1px 2px rgba(0,0,0,0.10);
+}
+
+.hero-main-content h1 {
+  margin: 3.5rem 0;
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 0.25px;
+  color: #333;
+}
+
+.text-highlight {
+  color: #BDBDBD;
+}
+.btn {
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 5rem;
+}
+
+.btn-prime {
+  background-color:#2962FF;
+  color: #fff;
+  margin-top: 2rem;
+}
+.btn-prime:hover {
+  background-color: #FE5F55;
+  color: #fff;
+}
+
+.btn-second {
+  background-color: #F5F5F5;
+  color: #2962FF;
+  margin-top: 2rem;
+}
+
+.btn-second:hover {
+  background-color: #2962FF;
+  color: #fff;
+}
+
+/* Personal Intro */
+img {
+  width: 100%;
+  border-radius: .3rem;
+}
+
+.bio-text {
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 1rem;
+} 
+
+.btn-round {
+  background-color: #2962FF;
+  color: #fff;
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+/* Passion */
+section {
+  margin-top: 5rem;
+}
+
+.section-title {
+  margin-bottom: 3rem;
+}
+.section-sm-tittle {
+  color: #2962FF;
+  font-weight: 600;
+}
+
+.card {
+  background-color: #F5F5F5;
+}
+
+.card-body i { 
+  color: #fff;
+  background-color: #2962FF;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+/* Language */
+.language {
+  background-color: #F5F5F5;
+  border-radius: 4px;
+}
+
+.language h5 {
+  padding: 1rem 0 0 0;
+}
+
+.language img {
+  width: 3rem;
+  margin: 1.2rem;
+}
+
+/* Work */
+
+/* Contact */
+.contact-container {
+background-color:#F5F5F5;
+border-radius: 4px;
+}
+
+.content-wrap {
+  padding: 1rem;
+}
+
+.text-content h3 {
+  color:#2962FF;
+}
+
+/* .personal-contact {
+  padding-left: 5rem;
+} */
+
+.personal-contact h5 {
+  color: #2962FF;
+}
+
+.copyright {
+  display:flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+}
