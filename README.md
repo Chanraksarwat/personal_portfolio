@@ -1,7 +1,7 @@
 # 02 Advanced CSS: Portfolio
 
 ## Link to my porfolio Website
-https://chanraksarwat.github.io/personal-porfolio/.
+https://chanraksarwat.github.io/personal_portfolio/
 
 ## Your Task
 * This project contained the first version of an on going work of my Personal Portfolio.
